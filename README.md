@@ -32,7 +32,7 @@ tutorias/
 │   └── test_reservas.py
 ├── .pytest_cache/
 ├── requirements.txt
-└── README.md
+README.md
 Arquitectura - Evidencias guía 1.pdf # Capturas de pantalla con evidencias
 ```
 
